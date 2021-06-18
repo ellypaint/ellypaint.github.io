@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>動物 on Elly老師的畫畫教學園地</title>
+    <link>https://ellypaint.github.io/tags/%E5%8B%95%E7%89%A9/</link>
+    <description>Recent content in 動物 on Elly老師的畫畫教學園地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 18 Jun 2021 14:46:10 +0800</lastBuildDate><atom:link href="https://ellypaint.github.io/tags/%E5%8B%95%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>兩中漫步（桂芬）</title>
+      <link>https://ellypaint.github.io/blog/draw/1/draw.1/</link>
+      <pubDate>Fri, 18 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/blog/draw/1/draw.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人類的朋友（美玲）</title>
+      <link>https://ellypaint.github.io/blog/studio/2/studio.2/</link>
+      <pubDate>Sun, 13 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/blog/studio/2/studio.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>虎虎生威（美玲）</title>
+      <link>https://ellypaint.github.io/blog/studio/2/studio.3/</link>
+      <pubDate>Sat, 12 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/blog/studio/2/studio.3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
