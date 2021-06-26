@@ -4,10 +4,8 @@
 
 3.studio : 畫室作品
 
-4.draw : 慈大繪畫班
+4.oil : 慈大油畫班
 
-4.oil : 油畫班
-
-5.sketch ： 素描班
+5.sketch ： 慈大素描班
 
 6.about : 關於我 的頁面
