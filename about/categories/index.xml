@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Elly老師的畫畫教學園地</title>
+    <link>https://ellypaint.github.io/categories/</link>
+    <description>Recent content in Categories on Elly老師的畫畫教學園地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 22 Nov 2021 14:46:10 +0800</lastBuildDate><atom:link href="https://ellypaint.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>油畫</title>
+      <link>https://ellypaint.github.io/categories/%E6%B2%B9%E7%95%AB/</link>
+      <pubDate>Mon, 22 Nov 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/categories/%E6%B2%B9%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>水彩</title>
+      <link>https://ellypaint.github.io/categories/%E6%B0%B4%E5%BD%A9/</link>
+      <pubDate>Mon, 14 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/categories/%E6%B0%B4%E5%BD%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>素描</title>
+      <link>https://ellypaint.github.io/categories/%E7%B4%A0%E6%8F%8F/</link>
+      <pubDate>Mon, 14 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/categories/%E7%B4%A0%E6%8F%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色鉛筆</title>
+      <link>https://ellypaint.github.io/categories/%E8%89%B2%E9%89%9B%E7%AD%86/</link>
+      <pubDate>Mon, 14 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://ellypaint.github.io/categories/%E8%89%B2%E9%89%9B%E7%AD%86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
